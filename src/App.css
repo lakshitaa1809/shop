@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+.Shirtcollection {
+  width: 1300px;
+  height: auto;
+}
+.Title {
+  font-size: 32px;
+  margin-left: 120px;
+  text-align: center;
+  align-content: center;
+  padding: 10px 20px;
+}
+.Store {
+  margin-left: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.Image {
+  margin-left: 20px;
+  width: 300px;
+  height: 300px;
+}
+
+.Description {
+  margin-left: 20px;
+  width: 300px;
+  text-align: center;
+  align-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+.Product {
+  width: 350px;
+  margin: 30px 0px;
+  padding-left: 60px;
+}
+.Price {
+  width: 300px;
+  margin-left: 20px;
+  text-align: center;
+  align-content: center;
+}
+.Brandname {
+  width: 300px;
+  margin-left: 20px;
+  text-align: center;
+  align-content: center;
+}
+.deal {
+  width: 170px;
+  height: 30px;
+  background-color: red;
+  position: absolute;
+  top: 410px;
+  left: 573px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  font-size: medium;
+}
+.deal1 {
+  width: 170px;
+  height: 30px;
+  background-color: red;
+  position: absolute;
+  top: 960px;
+  left: 985px;
+  font-size: medium;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
