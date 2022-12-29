@@ -57,7 +57,7 @@ function Offer1() {
 function Offer() {
   return alert("Today offer only INR 599.. Don't Miss it.. ");
 }
-function Mosdel() {
+function Model() {
   return (
     <main className="Store">
       <Brandname
